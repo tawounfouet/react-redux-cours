@@ -1,7 +1,8 @@
-# Cours Redux
+# Cours Redux - Formation React FS
+
 
 ```sh
-
+https://fromscratch.podia.com/view/courses/parcours-complet-mastering-front-end/1302614-react-3-3/5897752-cours-redux 
 ```
 
 
